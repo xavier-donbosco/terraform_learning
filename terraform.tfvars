@@ -1,0 +1,2 @@
+prefix = "sample"
+location = "westeurope"
